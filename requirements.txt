@@ -4,3 +4,4 @@ PyPDF2
 flask-cors
 sentence-transformers
 rapidfuzz
+gunicorn==21.2.0  # Required for deployment (optional for local development)
